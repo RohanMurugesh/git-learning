@@ -1,1 +1,3 @@
-Hellow World !!!
+Hello World !!!
+how are you
+take inputs
